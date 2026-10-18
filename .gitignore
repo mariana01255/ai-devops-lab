@@ -1,0 +1,7 @@
+# vim
+*.swp
+*.swo
+*~
+
+# day 03 private file (mode 600). Proof is day-03/permissions.md.
+secret.txt
