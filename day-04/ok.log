@@ -1,0 +1,18 @@
+=== 1. error count (grep -ci) ===
+4
+
+=== 2. top 10 IPs ===
+      3 10.0.0.9
+      2 10.1.1.1
+      2 10.0.0.8
+      1 172.16.0.4
+
+=== 3. one field with cut ===
+ERROR
+OK
+error
+ERROR
+OK
+Error
+OK
+OK

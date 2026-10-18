@@ -1,0 +1,8 @@
+10.0.0.8 - ERROR login failed
+10.0.0.8 - OK home
+10.0.0.9 - error timeout
+10.0.0.9 - ERROR timeout
+10.0.0.9 - OK health
+10.1.1.1 - Error disk full
+10.1.1.1 - OK health
+172.16.0.4 - OK home

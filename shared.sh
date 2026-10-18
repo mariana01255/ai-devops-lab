@@ -1,1 +1,2 @@
-shared ok
+#!/bin/bash
+echo shared ok
